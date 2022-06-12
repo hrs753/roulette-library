@@ -1,1 +1,1 @@
-from roulette import *
+from roulette.main import *
